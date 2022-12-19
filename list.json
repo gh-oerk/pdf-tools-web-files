@@ -1,0 +1,14 @@
+{
+	"pdf-tool": {
+		"latest": "1.2.0",
+		"all": ["1.2.0"]
+	},
+	"pdf-shrink": {
+		"latest": "1.2.0",
+		"all": ["1.2.0", "1.1.1"]
+	},
+	"pdf-metadata-editor": {
+		"latest": "1.2.0",
+		"all": ["1.2.0"]
+	}
+}
